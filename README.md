@@ -1,6 +1,6 @@
 # UserForms-Class-Spliter VBA Project
 
-**English** | [Русский](README RUS.md) | [UserForms-Class-ALL](https://github.com/vbatools/UserForms-Class-ALL/tree/main)
+**English** | [Русский](README_RUS.md) | [UserForms-Class-ALL](https://github.com/vbatools/UserForms-Class-ALL/tree/main)
 
 ![Демонстрация проекта](User_Forms.gif)
 
