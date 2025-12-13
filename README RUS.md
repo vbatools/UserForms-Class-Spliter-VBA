@@ -1,5 +1,9 @@
 # UserForms-Class-Spliter VBA Project
+
+**Русский** | [English](README.md) | [UserForms-Class-ALL](https://github.com/vbatools/UserForms-Class-ALL/blob/main/README_RUS.md)
+
 ![Демонстрация проекта](User_Forms.gif)
+
 ## Описание
 
 Проект представляет собой библиотеку для создания сплиттеров (разделителей) между элементами управления на UserForm в Excel. Сплиттеры позволяют пользователям динамически изменять размеры элементов управления на форме.

@@ -1,5 +1,9 @@
 # UserForms-Class-Spliter VBA Project
+
+**English** | [Русский](README RUS.md) | [UserForms-Class-ALL](https://github.com/vbatools/UserForms-Class-ALL/tree/main)
+
 ![Демонстрация проекта](User_Forms.gif)
+
 ## Description
 
 The project is a library for creating splitters (dividers) between controls on a UserForm in Excel. Splitters allow users to dynamically change the size of controls on a form.
